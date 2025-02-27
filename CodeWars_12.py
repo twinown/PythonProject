@@ -1,4 +1,3 @@
-
 def is_vow(inp):
     vowels = ['a', 'e', 'i', 'o', 'u']
     for i in range(len(inp)):
